@@ -13,8 +13,8 @@ I am going to make a NoC with computation
 
 ## How to test
 
-Explain how to use your project
+No idea how to test it yet
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+No external hardware
